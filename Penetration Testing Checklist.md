@@ -27,31 +27,31 @@
 ### 4. Enumeration:
 
 - [ ] Enumerate user accounts, network resources, and system details:
-  - Tools: enum4linux, enum.exe, SNMPWalk.
+  - **_Tools:_** enum4linux, enum.exe, SNMPWalk.
 - [ ] Enumerate DNS records and zone transfers:
-  - Tools: dnsrecon, dnsenum.
+  - **_Tools:_** dnsrecon, dnsenum.
 - [ ] Extract useful information from network services:
-  - Tools: BannerGrabber, SNMPGet, SMTP User Enumeration.
+  - **_Tools:_** BannerGrabber, SNMPGet, SMTP User Enumeration.
 - [ ] Document enumeration results.
 
 ### 5. Vulnerability Exploitation:
 
 - [ ] Exploit identified vulnerabilities:
-  - Tools: Metasploit Framework, Core Impact, Cobalt Strike.
+  - **_Tools:_** Metasploit Framework, Core Impact, Cobalt Strike.
 - [ ] Utilize web application vulnerability scanners for targeted testing:
-  - Tools: OWASP ZAP, Burp Suite.
+  - **_Tools:_** OWASP ZAP, Burp Suite.
 - [ ] Conduct brute force attacks:
-  - Tools: Hydra, Medusa, John the Ripper.
+  - **_Tools:_** Hydra, Medusa, John the Ripper.
 - [ ] Document successful exploitations.
 
 ### 6. Post-Exploitation:
 
 - [ ] Maintain access to compromised systems:
-  - Tools: Netcat, Meterpreter, PowerShell Empire.
+  - **_Tools:_** Netcat, Meterpreter, PowerShell Empire.
 - [ ] Extract sensitive data:
-  - Tools: Mimikatz, Responder.
+  - **_Tools:_** Mimikatz, Responder.
 - [ ] Perform privilege escalation:
-  - Tools: Kernel exploits, misconfigured permissions.
+  - **_Tools:_** Kernel exploits, misconfigured permissions.
 - [ ] Document post-exploitation activities.
 
 ### 7. Reporting and Documentation:
