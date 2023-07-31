@@ -61,4 +61,7 @@
 - [ ] Present findings to relevant stakeholders.
 - [ ] Finalize and submit the assessment report.
 
-Remember to adapt the checklist to your specific needs and consider using additional tools that align with your assessment objectives and target environment.
+</br>
+</br>
+
+> **Remember** to adapt the checklist to your specific needs and consider using additional tools that align with your assessment objectives and target environment.
