@@ -23,13 +23,21 @@
 - Follow the [Malware Checklist](https://github.com/algenisromero/CyberSec_Checklists/blob/1da3e6aee808aa873338d2e7227a03f6e4cac471/Malware%20Analysis%20Checklist.md) to analyze any possible malware extracted from email.
   - **_Tools:_** [Any.Run](https://app.any.run/), [Hybrid Analysis](https://www.hybrid-analysis.com/), [JOESecurity](https://www.joesecurity.org/)
 
-### 4. Document, Report & Stop:
+### 4. Mitigation & Detection
 
-- [ ] Report suspicious email as pishing/spam.
 - [ ] Block pishing/spam email addresses in mail clients.
+- [ ] Block email attachement from unknown sources.
 - [ ] Remove your email address from data broker lists.
-- [ ] Protect devices from pishing/spam malware by using antivirus.
-- [ ] Use automation tools to keep email
+- [ ] Use antimalware/antivirus software.
+- [ ] Use of automation tools to speed up the analysis process.
+
+### 5. Document, Report & Share:
+
+- [ ] Document your findings.
+- [ ] Create a report or executive summary from analysis results.
+- [ ] Share with the cyber community.
+
+
 
 </br>
 </br>
