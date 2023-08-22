@@ -1,25 +1,27 @@
 # Bug Bounty Checklist
 
-### 1. Information Gathering
+### 1. Planning and Preparation
 
-### 2. Configuration and Deployment Management Testing
+### 2. Information Gathering
 
-### 3. Identity Management Testing
+### 3. Configuration and Deployment Management Testing
 
-### 4. Authentication Testing
+### 4. Identity Management Testing
 
-### 5. Authorization Testing
+### 5. Authentication Testing
 
-### 6. Session Management Testing
+### 6. Authorization Testing
 
-### 7. Input Validation Testing
+### 7. Session Management Testing
 
-### 8. Testing for Error Handling
+### 8. Input Validation Testing
 
-### 9. Testing for Weak Cryptography
+### 9. Testing for Error Handling
 
-### 10. Business Logic Testing
+### 10. Testing for Weak Cryptography
 
-### 11.Client Side Testing
+### 11. Business Logic Testing
 
-### 12. Reporting
+### 12.Client Side Testing
+
+### 13. Reporting
